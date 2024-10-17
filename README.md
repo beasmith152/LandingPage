@@ -1,6 +1,5 @@
-# DIY Landing Page
+# Bea's Landing Page
 
-> Make your own landing page with your own content, and design.
 
 ## What Is This? 
 My DIY Landing Page with these features. 
@@ -12,8 +11,8 @@ My DIY Landing Page with these features.
 * Secure, and scalable to many CDNs worldwide via Netlify, Vercel, etc.
 
 ## Sources
-* Cite.
-* Your. 
+* [google fonts](fonts.google.com)
+* [favicongenerator](favicongenerator.net)
 * Sources.
 
 ## Why Does This Exist? 
