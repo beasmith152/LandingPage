@@ -2,6 +2,8 @@
 
 body {
   background: lightgray;
+  background-image: url('images/background\ for\ site.webp');
+  background-size: cover;
 }
 
 /* Main Container */
