@@ -85,5 +85,5 @@ querySelectorAll('h2')) {
 }
 
 document.querySelector('.btn').addEventListener('click', function() {
-  window.location.href = 'https://beasmith152.github.io/';
+  window.location.href = 'https://beasmith152.github.io/page2.html';
 });
