@@ -1,3 +1,5 @@
+import { VFX } from "https://esm.sh/@vfx-js/core";
+
 // Check JS is Connected
 console.log('OK');
 
@@ -25,7 +27,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // Using VFX-JS
 // https://amagi.dev/vfx-js/
-import { VFX } from "https://esm.sh/@vfx-js/core";
 
 const vfx = new VFX();
 
