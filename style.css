@@ -14,3 +14,18 @@ main {
   max-width: 40em;
 
 }
+
+#myLinks {
+  /* Add your styles here */
+  display: flex;
+  justify-content: center;
+}
+
+#myLinks a{
+  margin-right:2em;
+  text-decoration: none;
+}
+
+ul{
+  list-style-type: none;
+}
