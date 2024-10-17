@@ -2,7 +2,7 @@
 
 
 ## What Is This? 
-My DIY Landing Page with these features. 
+My DIY Landing Page to take you to my portfolio with these features. 
 
 * My content. My design.
 * Customizable and persistent URLs
@@ -14,6 +14,7 @@ My DIY Landing Page with these features.
 * [google fonts](fonts.google.com)
 * [favicongenerator](favicongenerator.net)
 * [js for animation](https://codepen.io/fand/pen/MWMBdbj)
+*[GPT 4O for Image Gen.]
 
 ## Why Does This Exist? 
 Many services offer a single-page-landing. These "web portals" have existed for decades before [Linktree](https://linktr.ee/), [About.Me](https://about.me), [Card](https://carrd.co/), etc.
