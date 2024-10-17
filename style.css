@@ -77,7 +77,7 @@ h2 {
 }
 
 .btn:hover {
-  background-color: #55023c; 
+  
   transform: scale(1.25); 
 }
 /* Link changes */
@@ -85,7 +85,6 @@ h2 {
 #myLinks {
   display: flex;
   justify-content: center;
-
   position:relative;
   z-index: 3;
   padding: 1em;
