@@ -20,9 +20,9 @@ main{
   background-repeat: no-repeat; 
 }
 
-/* background end point */
+/* Text Animation */
 section {
-  height: 100svh;
+  height: 75svh;
   display: grid;
   place-content: center;
 }
@@ -34,6 +34,8 @@ h2 {
   font-weight: 400;
   font-style: normal;
 }
+
+/* Button */
 
 .btnctn{
   position:relative;
@@ -78,6 +80,7 @@ h2 {
   background-color: #55023c; 
   transform: scale(1.25); 
 }
+/* Link changes */
 
 #myLinks {
   display: flex;
