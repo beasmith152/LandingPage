@@ -115,7 +115,7 @@ ul{
   }
   
   section {
-    height: 50vh;
+    height: 65vh;
     display: grid;
     place-content: center;
   }
