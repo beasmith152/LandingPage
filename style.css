@@ -125,7 +125,7 @@ ul{
     background-size: cover; 
     background-position: center;  
     background-repeat: no-repeat; 
-    overflow-x: none;
+    overflow-x: hidden;
     position:absolute;
     justify-content: center;
     align-items: center;
