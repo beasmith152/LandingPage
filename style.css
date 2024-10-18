@@ -26,6 +26,7 @@ section {
   display: grid;
   place-content: center;
 }
+
 h2 {
   font-size: 20vw;
   color: white;
@@ -106,6 +107,20 @@ ul{
   list-style-type: none;
 }
 
+/* Mobile updates */
+
+@media(max-width: 768px){
+  h2{
+    font-size: 20vw;
+  }
+  
+  section {
+    height: 60vh;
+    display: grid;
+    place-content: center;
+  }
+
+}
 /* fonts used
 
 .michroma-regular {
