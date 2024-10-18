@@ -25,6 +25,7 @@ main{
 /* Text Animation */
 section {
   height: 75svh;
+  width: 100%;
   display: grid;
   place-content: center;
 }
@@ -33,9 +34,7 @@ h2 {
   font-size: 20vw;
   color: white;
   text-align: center;
-  font-family: "Michroma", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+
 }
 
 /* Button */
