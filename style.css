@@ -120,6 +120,8 @@ ul{
     background-repeat: no-repeat; 
     overflow-x: none;
     position:absolute;
+    justify-content: center;
+    align-items: center;
   }
 
   h2{
