@@ -112,6 +112,16 @@ ul{
 /* Mobile updates */
 
 @media(max-width: 768px){
+
+  main{
+    background-image: url('images/background\ for\ site.webp');
+    background-size: cover; 
+    background-position: center;  
+    background-repeat: no-repeat; 
+    overflow-x: none;
+    position:absolute;
+  }
+
   h2{
     font-size: 8.5em;
     margin:0;
