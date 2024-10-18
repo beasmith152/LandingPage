@@ -4,6 +4,7 @@ html body{
   padding: 0;
   font-family: 'Arial', sans-serif;
   color: white;
+  overflow-x: hidden;
 }
 
 body {
@@ -18,6 +19,7 @@ main{
   background-size: cover; 
   background-position: center;  
   background-repeat: no-repeat; 
+  overflow-x: none;
 }
 
 /* Text Animation */
