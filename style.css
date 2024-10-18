@@ -111,11 +111,11 @@ ul{
 
 @media(max-width: 768px){
   h2{
-    font-size: 20vw;
+    font-size: 10em;
   }
   
   section {
-    height: 60vh;
+    height: 50vh;
     display: grid;
     place-content: center;
   }
